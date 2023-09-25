@@ -1,0 +1,24 @@
+{
+  "name": "instaze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gotrekbr/instaze.git"
+  },
+  "author": "Jose Calazans Abrantes Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gotrekbr/instaze/issues"
+  },
+  "homepage": "https://github.com/gotrekbr/instaze#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "instauto": "^9.2.1",
+    "puppeteer": "^21.3.4"
+  }
+}
